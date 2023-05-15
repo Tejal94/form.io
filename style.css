@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    /* text-decoration: line-through; */
+    border-width: 5px ;
+    border-color: blue;
+    border-style: solid;
+    border-top-style: dotted;
+    /* border: 5px solid blue; */
+}
+
+ul{
+    /* list-style-type: lower-roman; */
+    list-style-image: url(./icon6.png);
+    list-style-position: outside;
+}
+
+ol{
+    /* list-style-position: inside; */
+}
+
+a{
+    text-decoration: none;
+}
